@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Electric Upgrades</name>
+    <author>mpwoz</author>
+    <targetVersion>0.19.0</targetVersion>
+    <description>
+        Adds higher tiers of power generation buildings. They require research and cost more to build, but will save
+        space in your colony by generating more power per square foot.
+
+        Generally, the mk2 version of each generator costs 4x as much as the regular one, and generates 2x as much power.
+        I also gave them twice the hitpoints and work to build.
+    </description>
+</ModMetaData>

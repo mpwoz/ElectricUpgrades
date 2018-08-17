@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ElectricUpgrades" t="IncludeFlat">
+      <e p="ElectricUpgrades.sln" t="IncludeFlat" />
+      <e p="Source\ElectricUpgrades\ElectricUpgrades.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\marti\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_ElectricUpgrades.2101468133.00" t="ExcludeRecursive" />
+  </component>
+</project>

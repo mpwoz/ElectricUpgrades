@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ElectricUpgrades\Assemblies" t="ExcludeRecursive" />
+    <e p="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ElectricUpgrades\Source" t="IncludeRecursive">
+      <e p="ElectricUpgrades.csproj" t="IncludeRecursive" />
+      <e p="Main.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Source.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\marti\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Source.1704026585.00" t="ExcludeRecursive" />
+  </component>
+</project>
